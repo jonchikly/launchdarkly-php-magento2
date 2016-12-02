@@ -1,11 +1,12 @@
 {
-    "name": "launchdarkly/launchdarkly-php",
-    "description": "Official LaunchDarkly SDK for PHP",
+    "name": "jonchikly/launchdarkly-php-magento2",
+    "description": "Fork of the Official LaunchDarkly SDK for PHP modified for compatibility with Magento 2",
     "keywords": [
         "launchdarkly",
-        "launchdarkly php"
+        "launchdarkly php",
+        "launchdarkly magento 2"
     ],
-    "homepage": "https://github.com/launchdarkly/php-client",
+    "homepage": "https://github.com/jonchikly/launchdarkly-php-magento2",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -14,7 +15,7 @@
         }
     ],
     "require": {
-        "monolog/monolog": "1.21.0",
+        "monolog/monolog": "1.16.0",
         "php": ">=5.5",
         "psr/log": "1.0.0"
     },
